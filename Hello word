@@ -1,0 +1,12 @@
+// Program to print hello word
+/*
+program to print hello word
+Author:Micah
+Date:17/9/2024
+*/
+preprocessor directive
+#include<stdio.h> // scanf(),printf
+int main(){
+printf("Hello\n world\n");
+return 0;
+}
